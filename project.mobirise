@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Siddhant Patil",
-    "currentPage": "index.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,10 +53,11 @@
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "contact.html": {
