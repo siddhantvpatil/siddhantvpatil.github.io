@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Siddhant Patil",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 40,
+    "uniqCompNum": 46,
     "versionPublish": "5.2.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -63,7 +63,7 @@
       "settings": {
         "meta_descr": "Contact information",
         "title": "Contact",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -613,7 +613,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1541,7 +1541,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2121,10 +2121,10 @@
         }
       ]
     },
-    "about.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "About me",
         "meta_descr": "Siddhant Patil",
         "header_custom": "",
         "footer_custom": "",
