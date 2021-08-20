@@ -17,5 +17,38 @@ excerpt: >
   <br> <br>
   For the Summer of 2022, I am actively looking for an internship.
   <br> <br>
-  Graduated from BITS Pilani in 2019.         
+  Graduated from BITS Pilani in 2019.   
+feature_row_work_exp:
+  - image_path: /assets/images/projects/fabric.jpeg
+    alt: "Image"
+    title: "Color Classification using RGB Camera"
+    excerpt: "Designed a fully-automated user-friendly suite that captures an image using a RGB camera and after accounting for color temperature and lighting conditions classifies the input fabric based on its color. (Paper presented in an IEEE Conference)"
+    url: "https://ieeexplore.ieee.org/document/8524580"
+    btn_class: "btn--inverse"
+    btn_label: "Read more"      
 --- 
+<center><h1 id="Work Experience"> Work Experience </h1></center>
+<br>
+> <h2>Quantiphi Inc., India</h2>
+  > Senior Machine Learning Enginner || March 2021 - August 2021 <br>
+  > Machine Learning Engineer || July 2019 - February 2021
+
+> <h2>Hiroshima University, Japan</h2>
+  Special Audit Student || June 2019
+
+> <h2>Technische Universität Dresden</h2>
+  Guest Researcher || May 2018 – December 2018
+
+> <h2>Central Electronics Engineering Research Institute, India</h2>
+  Summer Intern || May 2017 - July 2017
+
+<center><h1 id="Education"> Education </h1></center>
+<br>
+> <h2>University of California, Los Angeles, US</h2>
+  MS in Electrical and Computer Engineering || September 2021 - June 2023 
+
+> <h2>Birla Institute of Technology and Science, Pilani, India</h2>
+  B.E.(Hons.) Electronics and Instrumentation Engineering || August 2015 - July 2019 
+  <br>
+  Minor in Finance || August 2017 - July 2019 
+  
