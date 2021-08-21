@@ -14,10 +14,6 @@
 
 **Michael Rose**
 
-- <https://mademistakes.com>
-- <https://twitter.com/mmistakes>
-- <https://github.com/mmistakes>
-
 ### Icons + Demo Images:
 
 - [Font Awesome](http://fontawesome.io/)
