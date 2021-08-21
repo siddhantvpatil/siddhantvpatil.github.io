@@ -28,10 +28,10 @@ feature_row_work_exp:
     btn_label: "Read more"      
 --- 
 <center><h1 id="Work Experience"> Work Experience </h1></center>
-<br>
 > <h2>Quantiphi Inc., India</h2>
-  > Senior Machine Learning Enginner || March 2021 - August 2021 <br>
-  > Machine Learning Engineer || July 2019 - February 2021
+  Senior Machine Learning Enginner || March 2021 - August 2021 
+  <br> <br>
+  Machine Learning Engineer || July 2019 - February 2021
 
 > <h2>Hiroshima University, Japan</h2>
   Special Audit Student || June 2019
@@ -42,13 +42,14 @@ feature_row_work_exp:
 > <h2>Central Electronics Engineering Research Institute, India</h2>
   Summer Intern || May 2017 - July 2017
 
-<center><h1 id="Education"> Education </h1></center>
 <br>
+
+<center><h1 id="Education"> Education </h1></center>
 > <h2>University of California, Los Angeles, US</h2>
   MS in Electrical and Computer Engineering || September 2021 - June 2023 
 
 > <h2>Birla Institute of Technology and Science, Pilani, India</h2>
   B.E.(Hons.) Electronics and Instrumentation Engineering || August 2015 - July 2019 
-  <br>
+  <br> <br>
   Minor in Finance || August 2017 - July 2019 
   
