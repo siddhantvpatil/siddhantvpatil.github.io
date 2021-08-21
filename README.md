@@ -6,6 +6,10 @@
 
 ## Credits
 
+### Developer
+
+**Siddhant Patil**
+
 ### Creator
 
 **Michael Rose**
